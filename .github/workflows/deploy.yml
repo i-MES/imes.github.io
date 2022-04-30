@@ -7,13 +7,6 @@ on:
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
-permissions:
-  actions: write
-  contents: read
-  pull-requests: write
-  deployments: write
-  pages: write
-
 jobs:
   deploy:
     name: Deploy to GitHub Pages
