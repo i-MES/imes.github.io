@@ -8,6 +8,7 @@ on:
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 permissions:
+ actions: read|write
   contents: read
   pull-requests: write
 
