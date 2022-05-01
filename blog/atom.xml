@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://imes.github.io/blog</id>
+    <title>iMES Blog</title>
+    <updated>2022-04-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://imes.github.io/blog"/>
+    <subtitle>iMES Blog</subtitle>
+    <icon>https://imes.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[iMES 启程]]></title>
+        <id>/2022/04/30/on.the.way</id>
+        <link href="https://imes.github.io/blog/2022/04/30/on.the.way"/>
+        <updated>2022-04-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[on.the.way]]></summary>
+        <content type="html"><![CDATA[<p>行者常至，为者常成 —— 出发...</p>]]></content>
+        <author>
+            <name>wKevin</name>
+            <uri>http://github.com/wkevin</uri>
+        </author>
+        <category label="iMES" term="iMES"/>
+    </entry>
+</feed>
