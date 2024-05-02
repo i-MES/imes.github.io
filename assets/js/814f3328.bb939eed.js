@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunki_mes_doc=self.webpackChunki_mes_doc||[]).push([[535],{45641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"MES \u767d\u76ae\u4e66 & \u6807\u51c6","permalink":"/blog/2024/04/22/what.is.mes"}]}')}}]);
