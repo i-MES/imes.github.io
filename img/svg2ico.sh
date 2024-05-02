@@ -23,6 +23,7 @@ echo Compressing...
 pngquant -f --ext .png $out/*.png --posterize 4 --speed 1
 
 echo Converting to favicon.ico...
+# brew install ImageMagick
 convert "$out/*.png" favicon.ico
 
 echo Clean-up
